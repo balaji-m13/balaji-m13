@@ -13,4 +13,4 @@ I am interested in Web Development, Machine Learning and problem solving.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=balaji-m13&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-m13&langs_count=5&theme=tokyonight)]()
+
