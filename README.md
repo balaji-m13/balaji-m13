@@ -6,8 +6,7 @@
 
 
 
-- 🔭 I’m currently working as a Software Engineer Intern in Cloudera.
-- I am actively looking for Software Engineering Jobs. 
+- 🔭 I’m currently working as a Software Engineer in Cloudera. 
 - 📫 You can reach me at: https://www.linkedin.com/in/balaji-m-aa6849192 
 
 
