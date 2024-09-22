@@ -10,6 +10,3 @@
 - 📫 You can reach me at: https://www.linkedin.com/in/balaji-m-aa6849192 
 
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=balaji-m13&count_private=true&theme=tokyonight&showicons=true)]()
-
