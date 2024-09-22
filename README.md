@@ -2,7 +2,7 @@
   Hi there, this is Balaji 👋 
 </h1>
 
-<b> I am pursuing BTech in Computer Science and Engineering at Vellore Institute of Technology. </b>
+<b> I am a software Engineer with expertise in Big Data, Machine Learning, and Cloud technologies, passionate about building scalable solutions and innovative AI/ML projects </b>
 
 
 
