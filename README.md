@@ -2,7 +2,7 @@
   Hi there, this is Balaji 👋 
 </h1>
 
-<b> I am a software Engineer with expertise in Full Stack Development, Big Data, Machine Learning, and Cloud technologies, passionate about building scalable solutions and innovative AI/ML projects </b>
+<b> I am a software Engineer with expertise in Full Stack Development, Big Data, Machine Learning, and Cloud technologies, passionate about building scalable solutions and innovative projects </b>
 
 
 
